@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "68243702e511968171e9effc136ba005",
+    "content-hash": "f1c9f7a812f3b80d14d2f5ad83c0d074",
     "packages": [
         {
             "name": "akaunting/money",
@@ -4296,16 +4296,16 @@
         },
         {
             "name": "prettus/l5-repository",
-            "version": "2.6.44",
+            "version": "2.6.45",
             "source": {
                 "type": "git",
                 "url": "https://github.com/andersao/l5-repository.git",
-                "reference": "8c8db9895745dc35eb471a8f048ff9c000a3ccdd"
+                "reference": "c4d9d5834445e13d9ea0f00bfa23c67a0202aab1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andersao/l5-repository/zipball/8c8db9895745dc35eb471a8f048ff9c000a3ccdd",
-                "reference": "8c8db9895745dc35eb471a8f048ff9c000a3ccdd",
+                "url": "https://api.github.com/repos/andersao/l5-repository/zipball/c4d9d5834445e13d9ea0f00bfa23c67a0202aab1",
+                "reference": "c4d9d5834445e13d9ea0f00bfa23c67a0202aab1",
                 "shasum": ""
             },
             "require": {
@@ -4358,7 +4358,7 @@
                 "model",
                 "repository"
             ],
-            "time": "2020-05-15T08:22:53+00:00"
+            "time": "2020-05-22T06:32:04+00:00"
         },
         {
             "name": "prettus/laravel-validation",
@@ -10428,7 +10428,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.2",
+        "php": ">=7.3",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-simplexml": "*",
